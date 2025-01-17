@@ -39,40 +39,29 @@ Password-Reset-Demo
 
 #### nodejs project creation
 
-bash
-     mkdir index.js
-
-
-bash
-      npm init
+## Project Configuration
+     mkdir server.js
+     
+     npm init
 
 
 
 #### Packages to be installed
+     bash npm install body-parser
 
-bash
-      npm install body-parser
+     bash npm install morgan
 
-bash
-      npm install morgan
+     bash npm install express
 
-bash
-      npm install express
+     bash npm install -D nodemon
 
-bash
-       npm install -D nodemon
+     bash npm install mongoose 
 
-bash
-       npm install mongoose
+     bash npm install dotenv
 
-bash
-        npm install dotenv
+     bash npm install bcrypt
 
-bash
-      npm install bcrypt
-
-bash
-       npm install jsonwebtoken
+     bash npm install jsonwebtoken
 
 
 
