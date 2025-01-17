@@ -1,13 +1,7 @@
 
 # Password Reset Flow
    
-    user authentication and authorization using Bearer tokens in a Node.js application with Express.js, Mongoose, and JWT.
-
-
-
-
-
-
+user authentication and authorization using Bearer tokens in a Node.js application with Express.js, Mongoose, and JWT.
 
 ## Key Features
 
@@ -16,6 +10,8 @@
 - *Secure routes protected by Bearer token authentication* 
 - *Fully documented API using Postman* 
 - *Detailed error handling and validation*
+
+  
 ## Screenshots
 
 ![Signup](https://github.com/Atchayavijay/Backend-Password-Reset/blob/main/Results/Signup.png?raw=true)
@@ -44,39 +40,39 @@ Password-Reset-Demo
 #### nodejs project creation
 
 bash
-mkdir index.js
+     mkdir index.js
 
 
 bash
-npm init
+      npm init
 
 
 
 #### Packages to be installed
 
 bash
-npm install body-parser
+      npm install body-parser
 
 bash
-npm install morgan
+      npm install morgan
 
 bash
-npm install express
+      npm install express
 
 bash
-npm install -D nodemon
+       npm install -D nodemon
 
 bash
-npm install mongoose
+       npm install mongoose
 
 bash
-npm install dotenv
+        npm install dotenv
 
 bash
-npm install bcrypt
+      npm install bcrypt
 
 bash
-npm install jsonwebtoken
+       npm install jsonwebtoken
 
 
 
