@@ -31,6 +31,9 @@ user authentication and authorization using Bearer tokens in a Node.js applicati
 Password-Reset-Demo
 
 
+https://github.com/user-attachments/assets/22aff33a-4949-4f56-8e38-ad629980e1cc
+
+
 # Installation
 
 - Install my-project with npm
