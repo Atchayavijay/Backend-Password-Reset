@@ -96,7 +96,7 @@ bash
 bash
   npm run start
 
-## Deployment BACKEND-URL
+## Deployment FRONTEND-URL
 
 https://frontend-password-reset.netlify.app
 
